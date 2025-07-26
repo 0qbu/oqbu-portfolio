@@ -44,9 +44,9 @@ const Portfolio = () => {
   ];
 
   const socialLinks = [
-    { name: 'GitHub', icon: <Github className="w-5 h-5" />, url: '#', color: 'hover:text-purple-400' },
-    { name: 'Discord', icon: <MessageCircle className="w-5 h-5" />, url: '#', color: 'hover:text-blue-400' },
-    { name: 'Email', icon: <Mail className="w-5 h-5" />, url: 'mailto:oqbu@example.com', color: 'hover:text-green-400' },
+    { name: 'GitHub', icon: <Github className="w-5 h-5" />, url: 'https://github.com/0qbu', color: 'hover:text-purple-400' },
+    { name: 'Discord', icon: <MessageCircle className="w-5 h-5" />, url: 'oqbu', color: 'hover:text-blue-400' },
+    { name: 'Email', icon: <Mail className="w-5 h-5" />, url: 'mailto:oqbudev@gmail.com', color: 'hover:text-green-400' },
   ];
 
   return (
