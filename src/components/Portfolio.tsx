@@ -112,19 +112,16 @@ const Portfolio = () => {
               <div className="text-lg leading-relaxed text-muted-foreground space-y-4">
                 <p>
                   <TypingEffect 
-                    text="Hey there! I'm Oqbu, a passionate Full Stack Developer with expertise in modern web technologies." 
+                    text="Hey there! I'm Oqbu 👨‍💻, a passionate Full Stack Developer with expertise in modern web technologies. 🚀" 
                     speed={50}
                     delay={500}
                   />
                 </p>
                 <p className="animate-fade-in" style={{ animationDelay: '3s' }}>
-                  I specialize in building beautiful, responsive websites and powerful Discord bots. 
-                  From frontend magic with React and Angular to backend wizardry with Node.js and MongoDB, 
-                  I love bringing ideas to life through code.
+                  I specialize in building beautiful, responsive websites and powerful Discord bots. From frontend magic with React ⚛️ and Angular 🅰️ to backend wizardry with Node.js 🧙‍♂️ and MongoDB 🍃, I love bringing ideas to life through code 💡
                 </p>
                 <p className="animate-fade-in" style={{ animationDelay: '4s' }}>
-                  When I'm not coding, you'll find me exploring new technologies, optimizing Discord servers, 
-                  or crafting the perfect user experience. Ready to work together? Let's build something amazing!
+                  When I'm not coding, you'll find me exploring new technologies 🔍, optimizing Discord servers 🔧, or crafting the perfect user experience 🎨. Ready to work together? Let's build something amazing! 💥👨‍💻
                 </p>
               </div>
             </CardContent>
@@ -190,7 +187,7 @@ const Portfolio = () => {
               <Button variant="outline" asChild>
                 <a href="mailto:oqbu@example.com" className="flex items-center gap-2">
                   <Mail className="w-4 h-4" />
-                  oqbu@example.com
+                  oqbudev@gmail.com
                 </a>
               </Button>
               <Button variant="outline" asChild>
@@ -207,7 +204,7 @@ const Portfolio = () => {
       {/* Footer */}
       <footer className="container mx-auto px-6 py-8 border-t border-border">
         <div className="text-center text-muted-foreground">
-          <p>&copy; 2024 Oqbu. Built with React, TypeScript, and lots of ☕</p>
+          <p>&copy; 2025 Oqbu. Built with React, TypeScript, and lots of ☕</p>
         </div>
       </footer>
     </div>
